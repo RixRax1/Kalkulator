@@ -15,6 +15,7 @@ while (true)
     int tall2;
     
     // Leser inn det første tallet
+
     while (true)
     {
         Console.WriteLine("\nSkriv inn det første tallet:");
