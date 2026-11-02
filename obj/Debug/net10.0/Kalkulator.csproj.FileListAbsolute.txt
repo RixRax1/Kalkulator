@@ -12,3 +12,4 @@
 /Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.pdb
 /Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.genruntimeconfig.cache
 /Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/ref/Kalkulator.dll
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.sourcelink.json
