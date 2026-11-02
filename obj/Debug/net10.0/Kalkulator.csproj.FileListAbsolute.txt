@@ -1,0 +1,14 @@
+/Users/rix/Development/Kodehode/Kalkulator/bin/Debug/net10.0/Kalkulator
+/Users/rix/Development/Kodehode/Kalkulator/bin/Debug/net10.0/Kalkulator.deps.json
+/Users/rix/Development/Kodehode/Kalkulator/bin/Debug/net10.0/Kalkulator.runtimeconfig.json
+/Users/rix/Development/Kodehode/Kalkulator/bin/Debug/net10.0/Kalkulator.dll
+/Users/rix/Development/Kodehode/Kalkulator/bin/Debug/net10.0/Kalkulator.pdb
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.AssemblyInfoInputs.cache
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.AssemblyInfo.cs
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.csproj.CoreCompileInputs.cache
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.dll
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/refint/Kalkulator.dll
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.pdb
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/Kalkulator.genruntimeconfig.cache
+/Users/rix/Development/Kodehode/Kalkulator/obj/Debug/net10.0/ref/Kalkulator.dll
