@@ -8,8 +8,8 @@ Kalkulatoren lar brukeren skrive inn to helltall (ikke desimaler), og velge mell
 Prosjektet er utviklet for å øve på nye programmersingskonsepter.
 
 Hvordan fungerer programmet?
-Variabler og datatyper - Kalkulatoren bruker datatypen int for å lage heltall. Datatypen string brkes til å lage brukerens valg av regneart.
-Brukerinput - Console.ReadLine() brukes for å hente informasjon fra brukeren. Metoden returnerer tekst, og derfor må talene konverteres til heltall. Dette gjøres med int.TryParse(). TryParse() returnerer true dersom konvertingen lykkse, og false dersom den mislykkes.
+Variabler og datatyper - Kalkulatoren bruker datatypen int for å lage heltall. Datatypen string brukes til å lage brukerens valg av regneart.
+Brukerinput - Console.ReadLine() brukes for å hente informasjon fra brukeren. Metoden returnerer tekst, og derfor må tallene konverteres til heltall. Dette gjøres med int.TryParse(). TryParse() returnerer true dersom konvertingen lykkse, og false dersom den mislykkes.
 Metoder - Hver regneart har sin egen metode. Metoden mottar to heltall som parametere og returnerer summen, dette gjør at samme metode kan brukes flere ganger med forskjellig tall.
 Switch - En switch-expression brukes for å velge hvilke metode som skal kjøres. Dette gjør koden mer oversiktlig enn flere etterfølgende if/else if-setninger.
 Feilhåndtering - Programmet bruker try/catch for å håndtere feil. Dersom brukeren forsøker å dele på null, vises en feilmelding.
