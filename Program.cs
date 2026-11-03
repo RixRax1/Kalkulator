@@ -2,7 +2,7 @@
 
 Console.WriteLine("================================");
 
-Console.WriteLine("       MIN KALKULATOR");
+Console.WriteLine("          KALKULATOR");
 
 Console.WriteLine("================================");
 
@@ -74,7 +74,7 @@ while (true)
     // Hvis svaret ikke er "j", avslutt programmet med en takk-melding
     if (svar?.ToLower() != "j")
     {
-        Console.WriteLine("\nTakk for at du brukte kalkulatoren!");
+        Console.WriteLine("\nAdjø!");
         break;
     }
 }
